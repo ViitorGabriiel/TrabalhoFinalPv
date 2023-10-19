@@ -1,0 +1,8 @@
+Nome: a
+Ingredientes: a
+Preço: 1
+Caminho: C:\Users\IFTM\Desktop\download.jpg
+Nome: a
+Ingredientes: a
+Preço: 1
+Caminho: C:\Users\IFTM\Desktop\download.jpg
